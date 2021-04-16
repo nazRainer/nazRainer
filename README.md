@@ -2,7 +2,7 @@
 - 👀 I’m interested in further elaborate my programming knowledge especially in C programming, Java, HTML, JavaScript, SQL, Python.
 - 🌱 I’m currently learning bachelor of software engineering in UPM
 - 💞️ I’m looking to collaborate on any software development program
-- 📫 How to reach me [0124165669](https://api.whatsapp.com/send/?phone=0124165669&text&app_absent=0&lang=en) or do email me at [faresnazrain99@gmail.com](mailto:faresnazrain99@gmail.com) or [195845@student.upm.edu.my](195845@student.upm.edu.my)
+- 📫 How to reach me [0124165669](https://api.whatsapp.com/send/?phone=0124165669&text&app_absent=0&lang=en) or do email me at [faresnazrain99@gmail.com](mailto:faresnazrain99@gmail.com) or [195845@student.upm.edu.my](mailto:195845@student.upm.edu.my)
 
 <!---
 nazRainer/nazRainer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
