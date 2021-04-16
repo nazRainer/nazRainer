@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @nazRainer or my actual name is <b/>Faris Nazrin<b/>
-- 👀 I’m interested in further elaborate my programming knowledge especially in:<ol>
+- 👋 Hi, I’m <b/>Faris Nazrin<b/>
+- 👀 I’m interested in further elaborate my programming knowledge especially in:<ul>
   <li>C programming</li>
   <li>Java</li>
   <li>HTML</li>
   <li>JavaScript</li>
   <li>SQL</li>
   <li>Python</li>
-  </ol> 
+  </ul> 
 -
 - 🌱 I’m currently learning bachelor of software engineering in UPM
 - 💞️ I’m looking to collaborate on any software development program
