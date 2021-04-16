@@ -9,8 +9,8 @@
     <li>SQL</li>
     <li>Python</li>
 </ul><br/>
-💞️ I’m looking to collaborate on any software development program<br/>
-📫 How to reach me [0124165669](https://api.whatsapp.com/send/?phone=0124165669&text&app_absent=0&lang=en) or do email me at [faresnazrain99@gmail.com](mailto:faresnazrain99@gmail.com) or [195845@student.upm.edu.my](mailto:195845@student.upm.edu.my)
+-💞️ I’m looking to collaborate on any software development program<br/>
+-📫 How to reach me [0124165669](https://api.whatsapp.com/send/?phone=0124165669&text&app_absent=0&lang=en) or do email me at [faresnazrain99@gmail.com](mailto:faresnazrain99@gmail.com) or [195845@student.upm.edu.my](mailto:195845@student.upm.edu.my)
 
 <!---
 nazRainer/nazRainer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
