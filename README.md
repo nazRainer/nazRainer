@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazRainer or my actual name is <b/>Faris Nazrin<b/>
 - 👀 I’m interested in further elaborate my programming knowledge especially in:
-- <ol>
+<ol>
   <li>C programming</li>
   <li>Java</li>
   <li>HTML</li>
