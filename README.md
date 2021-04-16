@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @nazRainer or my actual name is <b/>Faris Nazrin<b/>
 - 👀 I’m interested in further elaborate my programming knowledge especially in:
-- <ul>
+<ul>
     <li>C programming</li>
     <li>Java</li>
     <li>HTML</li>
     <li>JavaScript</li>
     <li>SQL</li>
     <li>Python</li>
-  </ul>  
+</ul>  
 - 🌱 I’m currently learning bachelor of software engineering in UPM
 - 💞️ I’m looking to collaborate on any software development program
 - 📫 How to reach me [0124165669](https://api.whatsapp.com/send/?phone=0124165669&text&app_absent=0&lang=en) or do email me at [faresnazrain99@gmail.com](mailto:faresnazrain99@gmail.com) or [195845@student.upm.edu.my](mailto:195845@student.upm.edu.my)
