@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b/>Faris Nazrin<b/>
 - 👀 I’m interested in further elaborate my programming knowledge especially in:<ul>
-  <li>C programming</li>
+  <li>C</li>
   <li>Java</li>
   <li>HTML</li>
   <li>JavaScript</li>
