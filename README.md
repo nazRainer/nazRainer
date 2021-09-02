@@ -6,6 +6,7 @@
   <li>JavaScript</li>
   <li>SQL</li>
   <li>Python</li>
+  <li>JavaScript</li>
   </ul> 
 - 🌱 I’m currently learning bachelor of software engineering in UPM
 - 💞️ I’m looking to collaborate on any software development program
